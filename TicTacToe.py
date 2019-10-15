@@ -8,3 +8,4 @@ def display_board():
     print(board[6] + " | " + board[7] + " | " + board[8])
 
 display_board()
+#dasdasd mai baga ceva
